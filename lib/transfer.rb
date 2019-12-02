@@ -26,6 +26,5 @@ class Transfer
         self.status = "complete"
       end
     end
-    self.status = "pending"
   end
 end
